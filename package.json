@@ -1,0 +1,15 @@
+{
+  "name": "3dmap",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/tuxuri/3dmap.git",
+  "author": "Helmi Tuxuri <helmi@tuxuri.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@cesiumgs/cesium-analytics": "file:./cesium-analytics",
+    "@turf/boolean-point-in-polygon": "^6.5.0",
+    "@turf/destination": "^6.5.0",
+    "@turf/distance": "^6.5.0",
+    "@turf/helpers": "^6.5.0"
+  }
+}
